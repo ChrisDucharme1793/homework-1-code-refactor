@@ -1,11 +1,11 @@
 <!--List of changes to HTML File--->
 Line 8  ADD "TYPE" to the link rel line
 
-Line 13-23:Oganized header listings/tabs to a cleaner one item per line look
+Line 13-23: Oganized header listings/tabs to a cleaner one item per line look
 
 Line 15-22: Changed top tabs to be a nav element as it seems as a menu or navagtion tool for the page
 
-Line 30:class="search-engine-optimization"> was missing the ID tag on the same line
+Line 30: class="search-engine-optimization"> was missing the ID tag on the same line
 
 Line 31-52: Add ALT tabs/labels to images so if there is an issue with the image it atleast shows the name of it.
 
