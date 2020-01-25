@@ -18,7 +18,7 @@ Line 27-41: Since we updated the tool bar at the top to a nav element we have to
 
 Line 89-133:  Added "mutiple class" tag to sections that have same styling..example(.benefit lead, .benefit brand, .benefit cost) <!-- Im not sure this is proper semantics as it would be as easy if you would like to change a specific class such as ".benefit brand? but not ".benefit cost">
 
-Let me know if there are any issues.
+Let me know if there are any issues as due to a git pull issue I lost everything so if you are having issues with images let me know. 
 
 # 01 HTML CSS Git: Code Refactor
 
