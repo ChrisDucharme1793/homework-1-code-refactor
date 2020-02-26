@@ -1,13 +1,17 @@
+GitHub Pages Link:
+https://chrisducharme1793.github.io/homework-1-code-refactor/
+
+
 <!--List of changes to HTML File--->
 Line 8  ADD "TYPE" to the link rel line
 
-Line 13-23: Oganized header listings/tabs to a cleaner one item per line look
+Line 13-23: Organized header listings/tabs to a cleaner one item per line look
 
-Line 15-22: Changed top tabs to be a nav element as it seems as a menu or navagtion tool for the page
+Line 15-22: Changed top tabs to be a nav element as it seems as a menu or navigation tool for the page
 
 Line 30: class="search-engine-optimization"> was missing the ID tag on the same line
 
-Line 31-52: Add ALT tabs/labels to images so if there is an issue with the image it atleast shows the name of it.
+Line 31-52: Add ALT tabs/labels to images so if there is an issue with the image it at least shows the name of it.
 
 Entire File: Replaced divs using HTML 5 semantic layouts such as section, sidebar, nav.
 
@@ -19,6 +23,9 @@ Line 27-41: Since we updated the tool bar at the top to a nav element we have to
 Line 89-133:  Added "mutiple class" tag to sections that have same styling..example(.benefit lead, .benefit brand, .benefit cost) <!-- Im not sure this is proper semantics as it would be as easy if you would like to change a specific class such as ".benefit brand? but not ".benefit cost">
 
 Let me know if there are any issues as due to a git pull issue I lost everything so if you are having issues with images let me know. 
+
+
+Class Instructions:
 
 # 01 HTML CSS Git: Code Refactor
 
